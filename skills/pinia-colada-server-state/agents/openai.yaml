@@ -1,0 +1,3 @@
+interface:
+  display_name: "Pinia Colada Server State"
+  short_description: "Build and review Pinia Colada server-state layers"

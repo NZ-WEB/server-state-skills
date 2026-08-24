@@ -1,0 +1,3 @@
+interface:
+  display_name: "TanStack React Query Server State"
+  short_description: "Build and review React Query server-state layers"
